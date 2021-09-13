@@ -17,6 +17,7 @@ for i in range(1,x+1):
     print((str(i)+' ')*i)
     
 print("................")
+print("$$$$$$$$$$$$$$$$")
 print("Done")
     
 
